@@ -33,7 +33,7 @@
     "bytewise": "^1.1.0",
     "clone": "^2.0.0",
     "debug": "^2.6.0",
-    "deep-extend": "^0.4.1",
+    "deep-extend": "^0.6.0",
     "end-stream": "^0.1.0",
     "express": "^4.14.1",
     "fluent-ffmpeg": "^2.1.0",
