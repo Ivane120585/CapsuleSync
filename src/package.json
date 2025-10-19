@@ -22,7 +22,7 @@
   "author": "Philip Deljanov",
   "license": "",
   "devDependencies": {
-    "electron": "^1.4.1",
+    "electron": "^38.3.0",
     "electron-rebuild": "^1.3.0",
     "eslint": "^3.14.0",
     "eslint-config-airbnb-base": "^11.0.1",
